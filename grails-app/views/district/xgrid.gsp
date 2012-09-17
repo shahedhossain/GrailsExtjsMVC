@@ -1,0 +1,15 @@
+<!doctype html>
+<g:applyLayout name="district"/>
+<html>
+  <head>
+    <title>Grails&raquo;ExtJS</title>
+    <script type="text/javascript" src="${resource(dir:'js', file: 'xgrid.js')}"></script>
+  </head>
+  <body>
+    <h1>Dynamic Forms built with JavaScript</h1>
+    <p>
+        These forms do not do anything and have very little validation. They solely demonstrate
+        how you can use Ext Forms to build and layout forms on the fly.
+    </p>
+  </body>
+</html>

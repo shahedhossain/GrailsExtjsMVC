@@ -1,0 +1,4 @@
+Sep 11, 2012 09:16:30 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Sep 11, 2012 09:16:32 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig

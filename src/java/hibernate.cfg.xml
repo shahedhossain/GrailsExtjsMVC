@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <listener type="pre-insert" class="event.PreInsertHandler" />
+        <listener type="pre-update" class="event.PreUpdateHandler" />
+        <listener type="post-insert" class="event.PostInsertHandler" />
+        <listener type="post-update" class="event.PostUpdateHandler" />
+    </session-factory>
+</hibernate-configuration>

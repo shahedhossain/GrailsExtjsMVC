@@ -1,0 +1,173 @@
+Aug 26, 2012 09:29:16 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 09:29:17 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 09:29:27 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 09:29:27 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 09:29:33 AM org.codehaus.groovy.grails.commons.spring.GrailsRuntimeConfigurator [METHOD: error , LINE: 213]
+ERROR: [RuntimeConfiguration] Unable to load beans from resources.groovy
+groovy.lang.MissingPropertyException: No such property: HibernateEventListeners for class: resources
+	at resources$_run_closure1.doCall(resources.groovy:3)
+	at grails.spring.BeanBuilder.invokeBeanDefiningClosure(BeanBuilder.java:736)
+	at grails.spring.BeanBuilder.beans(BeanBuilder.java:569)
+	at grails.spring.BeanBuilder.invokeBeanDefiningClosure(BeanBuilder.java:736)
+	at grails.spring.BeanBuilder.beans(BeanBuilder.java:569)
+	at grails.spring.BeanBuilder.invokeMethod(BeanBuilder.java:511)
+	at _GrailsBootstrap_groovy$_run_closure2_closure17.doCall(_GrailsBootstrap_groovy:105)
+	at _GrailsBootstrap_groovy$_run_closure2.doCall(_GrailsBootstrap_groovy:97)
+	at Shell$_run_closure2.doCall(Shell.groovy:37)
+	at Shell$_run_closure1.doCall(Shell.groovy:33)
+Aug 26, 2012 09:29:52 AM org.grails.plugin.resource.module.ModuleDeclarationsFactory [METHOD: call , LINE: ?]
+WARN : 'grails.resources.modules' in config does not define any modules
+Aug 26, 2012 09:29:57 AM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] Method ConfigurationHolder.getConfig() is deprecated and will be removed in a future version of Grails.
+Aug 26, 2012 09:29:57 AM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] Method ApplicationHolder.getApplication() is deprecated and will be removed in a future version of Grails.
+Aug 26, 2012 09:29:57 AM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] Method ApplicationHolder.getApplication() is deprecated and will be removed in a future version of Grails.
+Aug 26, 2012 10:15:22 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 10:15:23 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 10:41:48 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 10:41:49 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 10:47:39 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 10:47:40 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 10:57:20 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 10:57:21 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 11:41:14 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 11:41:15 AM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:10:35 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:10:36 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:10:48 PM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] You're using deprecated 'def startDelay = ...; def timeout = ...' parameters in theabc.FormativeJob, use 'static triggers = { simple startDelay: ..., repeatInterval: ...} instead.
+Aug 26, 2012 12:10:48 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:10:48 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:10:50 PM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] You're using deprecated 'def startDelay = ...; def timeout = ...' parameters in theabc.FormativeJob, use 'static triggers = { simple startDelay: ..., repeatInterval: ...} instead.
+Aug 26, 2012 12:10:50 PM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] You're using deprecated 'def startDelay = ...; def timeout = ...' parameters in theabc.FormativeJob, use 'static triggers = { simple startDelay: ..., repeatInterval: ...} instead.
+Aug 26, 2012 12:10:57 PM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] Method ConfigurationHolder.getConfig() is deprecated and will be removed in a future version of Grails.
+Aug 26, 2012 12:11:20 PM org.grails.plugin.resource.module.ModuleDeclarationsFactory [METHOD: call , LINE: ?]
+WARN : 'grails.resources.modules' in config does not define any modules
+Aug 26, 2012 12:11:29 PM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] Method ConfigurationHolder.getConfig() is deprecated and will be removed in a future version of Grails.
+Aug 26, 2012 12:11:29 PM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] Method ApplicationHolder.getApplication() is deprecated and will be removed in a future version of Grails.
+Aug 26, 2012 12:11:29 PM grails.util.GrailsUtil [METHOD: warn , LINE: 176]
+WARN : [DEPRECATED] Method ApplicationHolder.getApplication() is deprecated and will be removed in a future version of Grails.
+Aug 26, 2012 12:18:13 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:18:15 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:28:43 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:28:44 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:33:03 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:33:04 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:46:12 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 12:46:13 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 13:37:50 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 13:37:51 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 13:44:01 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 13:44:02 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 13:47:08 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 13:47:09 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 13:59:41 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 13:59:42 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:13:25 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:13:26 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:15:53 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:15:54 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:20:44 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:20:44 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:25:21 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:25:22 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:27:33 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:27:35 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:40:35 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:40:36 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:49:21 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:49:21 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:51:33 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 14:51:34 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 17:03:34 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 17:03:34 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 17:05:46 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 17:05:47 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 17:56:51 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 17:56:52 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 17:58:40 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 17:58:41 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 18:07:49 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 18:07:50 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 18:38:25 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 18:38:26 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 18:54:18 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 18:54:19 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 19:27:18 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 19:27:19 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 19:36:18 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
+Aug 26, 2012 19:36:20 PM grails.plugin.webxml.WebxmlGrailsPlugin [METHOD: invoke0 , LINE: ?]
+WARN : Did not find application config file: WebXmlConfig
